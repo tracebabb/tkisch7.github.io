@@ -23,9 +23,8 @@ body {
  
  h1
  {
- position:absolute;
  text-align: center;
- 
+ padding-top: 15px;
  font-size:42px;
  color:#000000;	
  left:570px;
